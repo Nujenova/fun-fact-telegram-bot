@@ -7,7 +7,7 @@ load_dotenv()
 
 key = os.getenv('token')
 
-print("bot started...")
+print("bot is starting...")
 
 def start_command(update, context):
     update.message.reply_text('type something to begin')
