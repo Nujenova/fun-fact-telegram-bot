@@ -1,2 +1,2 @@
 # this is the environment file for you to add in any secret tokens you have 
-token  = <your secret token here>
+secret_token  = <your secret token here>
